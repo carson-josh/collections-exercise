@@ -37,7 +37,7 @@ public class Student {
         car.addGrade(80);
         car.addGrade(70);
         car.addGrade(100);
-        System.out.println(car.getName() + " has an average of " +car.getGradeAverage() + ".");
+        System.out.println(car.getName() + " has an average of " +car.getGradeAverage()+ ".");
 
     }
 }
